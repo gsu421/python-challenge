@@ -1,9 +1,5 @@
 
-
-```python
-## Option 1: PyBank
-
-![Revenue](Images/revenue-per-lead.jpg)
+## PyBank
 
 In this challenge, you are tasked with creating a Python script for analyzing the financial records of your company. You will be given two sets of revenue data (`budget_data_1.csv` and `budget_data_2.csv`). Each dataset is composed of two columns: `Date` and `Revenue`. (Thankfully, your company has rather lax standards for accounting so the records are simple.)
 
@@ -33,4 +29,3 @@ Greatest Decrease in Revenue: Aug-12 ($-652794)
 
 Your final script must be able to handle any such similarly structured dataset in the future (your boss is going to give you more of these -- so your script has to work for the ones to come). In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
-```
