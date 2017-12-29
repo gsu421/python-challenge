@@ -1,9 +1,5 @@
+## PyPoll
 
-
-```python
-## Option 2: PyPoll
-
-![Vote-Counting](Images/Vote_counting.jpg)
 
 In this challenge, you are tasked with helping a small, rural town modernize its vote-counting process. (Up until now, Uncle Cleetus had been trustfully tallying them one-by-one, but unfortunately, his concentration isn't what it used to be.)
 
@@ -37,5 +33,3 @@ Winner: Gomez
 
 Your final script must be able to handle any such similarly-structured dataset in the future (i.e you have zero intentions of living in this hillbilly town -- so your script needs to work without massive re-writes). In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
-
-```
