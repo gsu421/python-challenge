@@ -244,10 +244,6 @@ plt.show()
 ![png](ReadMe_files/ReadMe_11_0.png)
 
 
-
-![png](ReadMe_files/ReadMe_11_1.png)
-
-
 ## Analyze Five Major Media Twitter Account using TextBlob
 
 
@@ -441,16 +437,16 @@ sentiment_avg_pd
     <tr>
       <th>0</th>
       <td>CNN</td>
-      <td>0.231815</td>
-      <td>0.91685</td>
-      <td>0.00000</td>
-      <td>0.08315</td>
+      <td>0.23799</td>
+      <td>0.89930</td>
+      <td>0.00920</td>
+      <td>0.09150</td>
       <td>50.5</td>
     </tr>
     <tr>
       <th>1</th>
       <td>Fox</td>
-      <td>0.131340</td>
+      <td>0.13134</td>
       <td>0.77270</td>
       <td>0.08750</td>
       <td>0.13980</td>
@@ -459,7 +455,7 @@ sentiment_avg_pd
     <tr>
       <th>2</th>
       <td>BBC</td>
-      <td>0.080320</td>
+      <td>0.08032</td>
       <td>0.92910</td>
       <td>0.01910</td>
       <td>0.05175</td>
@@ -467,20 +463,20 @@ sentiment_avg_pd
     </tr>
     <tr>
       <th>3</th>
-      <td>New York TImes</td>
-      <td>0.044705</td>
-      <td>0.90050</td>
-      <td>0.04025</td>
-      <td>0.05925</td>
+      <td>CBS</td>
+      <td>0.02932</td>
+      <td>0.90665</td>
+      <td>0.03905</td>
+      <td>0.05430</td>
       <td>50.5</td>
     </tr>
     <tr>
       <th>4</th>
-      <td>CBS</td>
-      <td>0.029320</td>
-      <td>0.90665</td>
-      <td>0.03905</td>
-      <td>0.05430</td>
+      <td>New York TImes</td>
+      <td>0.02087</td>
+      <td>0.91235</td>
+      <td>0.04025</td>
+      <td>0.04740</td>
       <td>50.5</td>
     </tr>
   </tbody>
